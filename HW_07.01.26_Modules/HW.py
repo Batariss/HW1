@@ -38,10 +38,9 @@
 # #EX3
 # import time
 
-# input("Натисни Enter для розпочатку")
+# input("Натисни Enter для початку")
 
-# start = time.time()  # старт секундоміра
-
+# start = time.time()
 
 # input("Enter для Lap 1")
 # lap1 = time.time() - start
