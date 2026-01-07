@@ -35,7 +35,26 @@
 # print("\nTime is up!")
 
 
-#EX3
-import time 
+# #EX3
+# import time
 
+# input("Натисни Enter для розпочатку")
+
+# start = time.time()  # старт секундоміра
+
+
+# input("Enter для Lap 1")
+# lap1 = time.time() - start
+# print(f"Lap 1: {lap1:.2f} секунд")
+
+# input("Enter для Lap 2")
+# lap2 = time.time() - start
+# print(f"Lap 2: {lap2:.2f} секунд")
+
+# input("Enter для Lap 3")
+# lap3 = time.time() - start
+# print(f"Lap 3: {lap3:.2f} секунд")
+
+# alltime = time.time() - start
+# print(f"\nЗагальний час: {alltime:.2f} секунд")
 
